@@ -34,7 +34,7 @@
 
 <img align="left" alt="caliendojulien" src="https://github-readme-stats.codestackr.vercel.app/api?username=caliendojulien&show_icons=true&hide_border=true&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caliendojulien&layout=compact)](https://github.com/caliendojulien)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caliendojulien&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=caliendojulien)
 
 [website]: https://caliendo.fr
 [twitter]: https://twitter.com/caliendojulien
