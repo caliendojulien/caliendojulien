@@ -1,7 +1,7 @@
 ### Salut 👋
 
 ## Je suis développeur, administrateur systèmes et réseaux, formateur et auteur.
-- 🌱 J'aime apprendre de nouvelles technologies exotique 🤣
+- 🌱 J'aime apprendre de nouvelles technologies exotiques 🤣
 - ⚡ J'ai été militaire, controleur puis inspecteur des Finances Publiques
 
 ### Connect with me:
